@@ -1,8 +1,6 @@
 # RevisaoMobileReciclagem
 Atividade de revisão mobile
 
-Atividade de revisão mobile
-
 No estado de São Paulo, a prefeitura da capital dispõe de um programa chamado "spRegula" que oferece diversos serviços relacionados ao descarte correto dos resíduos sólidos.
 
 Com toda problemática que temos em relação ao não reaproveitamento dos materiais recicláveis podemos ter sérios danos tanto a curto como a logo prazo. Devemos conscientizar a população quanto a forma do descarte correto para amenizarmos o impacto que os resíduos causam no meio ambiente. (PREFEITURA DE SÃO PAULO, 2022)
